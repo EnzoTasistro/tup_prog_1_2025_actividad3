@@ -21,7 +21,7 @@ Algoritmo total_a_pagar
 			Escribir 'El precio total de este producto es de ', preciototal
 			acumpreciototal <- acumpreciototal+preciototal
 			
-			Escribir 'Ingrese la cantidad del proximo producto o -1 para finalizar'
+			Escribir 'Ingrese la cantidad del proximo producto en -1 y el precio en 0 para finalizar'
 			Leer cantidad
 			
 			Escribir 'Ingrese el precio del producto'
@@ -34,7 +34,7 @@ Algoritmo total_a_pagar
 		
 	SiNo
 		
-		Escribir 'Lacantidad ingresada o el precio no son válidos'
+		Escribir 'Lacantidad ingresada o el precio no son vÃ¡lidos'
 		
 	FinSi
 	
